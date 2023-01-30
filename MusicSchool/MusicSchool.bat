@@ -1,0 +1,2 @@
+:: java -cp .\MusicSchool.jar Main
+"C:\Program Files\Java\jdk-17.0.5\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2022.3.1\lib\idea_rt.jar=50293:C:\Program Files\JetBrains\IntelliJ IDEA 2022.3.1\bin" -Dfile.encoding=UTF-8 -classpath "D:\chronologisch\2023Q1\Programmieraufgabe Sebastian\Intellij\DormakabaMusicSchool Test\out\production\DormakabaMusicSchool Test;D:\chronologisch\2023Q1\Programmieraufgabe Sebastian\Intellij\DormakabaMusicSchool Test\lib\mssql-jdbc-11.2.1.jre17.jar" Main
