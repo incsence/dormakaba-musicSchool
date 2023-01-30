@@ -16,6 +16,7 @@ https://learn.microsoft.com/en-us/sql/connect/jdbc/download-microsoft-jdbc-drive
 
 ## Edit batch file
 Download the MusicSchool.jar and MusicSchool.bat.
+
 Edit MusicSchool.bat:
 1. The location of your java version (which could be the same of course )
 2. Location of JDBC Driver (which could be the same of course) 
