@@ -3,12 +3,11 @@ This is my JAVA sandbox project - a time table tool for a music school
 
 
 ## JAVA
-This used jdk-17.0.5.
+This uses jdk-17.0.5.
+Download the full directory please.
 
 
 ## Import Database
-
-Download musicSchool.bacpac
 
 To import musicSchool.bacpac into MS SQL Server, please try this ( due to https://www.youtube.com/watch?v=HrE2GmxGXoM ): 
 
@@ -16,7 +15,7 @@ In SQL Server right click on "Databases".
 
 Click on "Import Data-tier Application"
 
-Choose the file on the computer and follow instructions. Done.
+Choose musicSchool.bacpac on your computer and follow instructions. Done.
 
 
 ## Download and Install JDBC Driver
