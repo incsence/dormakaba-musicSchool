@@ -1,10 +1,12 @@
 # dormakaba-musicSchool
 This is my JAVA sandbox project - a time table tool for a music school
 
+For running, please download the full directory.
+
 
 ## JAVA
 This uses jdk-17.0.5.
-Download the full directory please.
+
 
 
 ## Import Database
