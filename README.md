@@ -20,8 +20,14 @@ Click on "Import Data-tier Application"
 Choose musicSchool.bacpac on your computer and follow instructions. Done.
 
 
-## Download and Install JDBC Driver
+## JDBC Driver
+JDBC library is part of the repository.
+
+It was downloaded here: 
 https://learn.microsoft.com/en-us/sql/connect/jdbc/download-microsoft-jdbc-driver-for-sql-server?view=sql-server-ver16
 
 ## Edit MusicSchool.bat:
 Edit the Path to the location of MusicSchool.jar
+
+## to start the program
+double click on MusicSchool.bat
