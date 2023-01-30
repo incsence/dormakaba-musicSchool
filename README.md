@@ -1,4 +1,4 @@
-# dormakaba-musicSchool
+# Dormakaba MusicSchool
 This is my JAVA sandbox project - a time table tool for a music school
 
 For running, please download the full directory.
