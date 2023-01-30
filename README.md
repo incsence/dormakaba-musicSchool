@@ -14,10 +14,5 @@ Choose the file on the computer and follow instructions. Done.
 ## Download and Install JDBC Driver
 https://learn.microsoft.com/en-us/sql/connect/jdbc/download-microsoft-jdbc-driver-for-sql-server?view=sql-server-ver16
 
-## Edit batch file
-Download the MusicSchool.jar and MusicSchool.bat.
-
-Edit MusicSchool.bat:
-1. The location of your java version (which could be the same of course )
-2. Location of JDBC Driver (which could be the same of course) 
-3. Location of MusicSchool.jar
+## Edit MusicSchool.bat:
+Edit the Path to the location of MusicSchool.jar
