@@ -44,7 +44,7 @@ https://learn.microsoft.com/en-us/sql/connect/jdbc/download-microsoft-jdbc-drive
 
 ## Edit MusicSchool.bat:
 
-Edit the Path to the location of MusicSchool.jar
+Edit the Path to the location of your java.exe. 
 
 
 
