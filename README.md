@@ -29,7 +29,7 @@ Choose musicSchool.bacpac on your computer and follow instructions. Done.
 
 ### MusicSchool.sql
 
-If you want to create the database without bacpac-File, you can do so with MusicSchool.sql. The DB would then be empty. The Connection in Main wont work.
+If you want to create the database without bacpac-File, you can do so with MusicSchool.sql. The DB would then be empty. The Connection in Main most likely wont work.
 
 
 
