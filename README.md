@@ -4,7 +4,7 @@ This is my JAVA sandbox project - a time table tool for a music school
 
 For running, please download the full directory.
 
-Although running fine, this is considered to be work in progress for code security and code efficiancy reasons.
+Although running fine, this is considered to be work in progress for code security and code efficiency reasons.
 
 
 ## Requirements
